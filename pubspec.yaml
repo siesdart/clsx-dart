@@ -1,0 +1,20 @@
+name: clsx
+description: An unofficial Dart port of the popular JavaScript utility `clsx` for constructing className strings conditionally.
+version: 0.1.0
+homepage: https://github.com/siesdart/clsx-dart
+repository: https://github.com/siesdart/clsx-dart
+issue_tracker: https://github.com/siesdart/clsx-dart/issues
+
+environment:
+  sdk: ^3.11.0
+
+dev_dependencies:
+  test: ^1.25.6
+  very_good_analysis: ^10.2.0
+
+topics:
+  - web
+  - css
+  - classes
+  - clsx
+  - utility
